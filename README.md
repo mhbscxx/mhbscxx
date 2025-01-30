@@ -6,32 +6,24 @@
 
 As a student in the Information Technology department, I am happy and very interested in learning new things and I strive to seek opportunities to continue developing my skills and potential.. I love working on innovative projects and learning new technologies.
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [New Skill or Technology]
-- 👯 I’m looking to collaborate on [Project Type or Technology]
-- 💬 Ask me about [Topics or Technologies]
-- 📫 How to reach me: [Your Email or Social Media]
-- ⚡ Fun fact: [Something Interesting About You]
-
 ## Skills
 
-- **Languages:** [Languages You Know]
-- **Frameworks:** [Frameworks You Use]
-- **Tools & Technologies:** [Tools and Technologies You Use]
+- **Languages:** Java, Python, HTML
+- **Technologies:** Kafka, Netbeans IDE
 
 ## Projects
 
 Here are some of my notable projects:
 
-- [Project 1](link-to-project-1): Brief description of project 1.
-- [Project 2](link-to-project-2): Brief description of project 2.
-- [Project 3](link-to-project-3): Brief description of project 3.
+- [Personal Website](https://github.com/mhbscxx/profile_website): A responsive portofolio website that implements methods simple and easy to understand.
+- [Calculator](https://github.com/mhbscxx/Project_Kalkulator): A simple calculator uses an input function and will produce the required output.
+- [Inventori Barang](https://github.com/mhbscxx/Inventori_barang): A simple database - based application that is used to input and collect data on incoming and
+outgoing goods at a company with CRUD features and additional display.
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/muchib-science)
-- [Twitter](link-to-twitter)
-- [Personal Website](link-to-website)
+- [Instagram](https://www.instagram.com/mhbscxx_)
 
 ## GitHub Stats
 
