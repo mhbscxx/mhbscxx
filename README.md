@@ -29,7 +29,7 @@ Here are some of my notable projects:
 
 ## Connect with Me
 
-- [LinkedIn]([link-to-linkedin](https://www.linkedin.com/in/muchib-science)
+- [LinkedIn](https://www.linkedin.com/in/muchib-science)
 - [Twitter](link-to-twitter)
 - [Personal Website](link-to-website)
 
